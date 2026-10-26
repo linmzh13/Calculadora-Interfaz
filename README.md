@@ -39,9 +39,11 @@ Este proyecto consiste en una calculadora básica desarrollada en Python utiliza
    
 <img width="341" height="329" alt="Captura de pantalla 2026-10-25 202623" src="https://github.com/user-attachments/assets/c21c10e5-e636-4873-ac28-e311feeadad4" />
 
+
 2. **Diagrama de Clases:**
 
 <img width="269" height="302" alt="Captura de pantalla 2026-10-25 183446" src="https://github.com/user-attachments/assets/606fb290-3201-4467-ac06-d05fd5959269" />
+
 
 3. **Diagrama de Secuencia:**
    
