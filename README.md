@@ -47,6 +47,7 @@ Este proyecto consiste en una calculadora básica desarrollada en Python utiliza
 
 3. **Diagrama de Secuencia:**
 
-<img width="464" height="353" alt="Captura de pantalla 2026-10-26 121404" src="https://github.com/user-attachments/assets/7a009705-5ca4-4e67-87a7-8b0058fdc5e6" />
+<img width="453" height="494" alt="Captura de pantalla 2026-10-26 165702" src="https://github.com/user-attachments/assets/a1430d5c-e930-41c2-b515-738adb8b8353" />
+
 
 
