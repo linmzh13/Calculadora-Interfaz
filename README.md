@@ -1,4 +1,4 @@
-# Calculadora en Python
+# Calculadora en Python con Tkinter
 
 ## Descripción
 
